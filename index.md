@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="https://github.com/ajitmishra/test/blob/gh-pages/favicon%20JS%20logo%20android%20new.jpg?raw=true" type="image/x-icon">
+
 ## Welcome to Join Study
 
 You can use the [Join Study's Online Classroom](https://joinstudy.moodlecloud.com) to study and use the content the content for your website in Markdown files.
@@ -36,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <img src="https://github.com/ajitmishra/test/blob/master/assignment.jpg?raw=true" width="400" height="200" />
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
