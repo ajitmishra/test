@@ -36,3 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <img src="https://github.com/ajitmishra/test/blob/master/assignment.jpg?raw=true" width="400" height="200" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
