@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="/https://github.com/ajitmishra/test/blob/gh-pages/favicon.png">
+<https://raw.githubusercontent.com/ajitmishra/test/gh-pages/favicon.png="shortcut icon" type="image/png" href="/favicon.png?">
 
 ![GitHub Logo](/images/logo.png)
 
