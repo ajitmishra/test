@@ -1,6 +1,4 @@
-<https://raw.githubusercontent.com/ajitmishra/test/gh-pages/favicon.png="shortcut icon" type="image/png" href="/favicon.png?">
-
-![GitHub Logo](/images/logo.png)
+![Join Study Logo](/images/fevicon.png)
 
 ## Welcome to Join Study
 
