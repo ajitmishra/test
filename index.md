@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="https://github.com/ajitmishra/test/blob/gh-pages/favicon%20JS%20logo%20android%20new.jpg?raw=true" type="image/x-icon">
+![GitHub Logo](/images/logo.png)
 
 ## Welcome to Join Study
 
